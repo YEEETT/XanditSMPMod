@@ -8,4 +8,4 @@ Adds a menu for accessing warps on mc.xandit.net
 
 
 # Releases
-[Latest](xanditmod.jar)
+[Latest](whatever.jar)
